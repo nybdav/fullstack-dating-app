@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david.nyberg\\source\\workspace\\Angular\\DatingApp\\api\\API.csproj": {}
+    "C:\\Users\\david.nyberg\\source\\workspace\\Angular\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david.nyberg\\source\\workspace\\Angular\\DatingApp\\api\\API.csproj": {
+    "C:\\Users\\david.nyberg\\source\\workspace\\Angular\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david.nyberg\\source\\workspace\\Angular\\DatingApp\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\david.nyberg\\source\\workspace\\Angular\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\david.nyberg\\source\\workspace\\Angular\\DatingApp\\api\\API.csproj",
+        "projectPath": "C:\\Users\\david.nyberg\\source\\workspace\\Angular\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\david.nyberg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david.nyberg\\source\\workspace\\Angular\\DatingApp\\api\\obj\\",
+        "outputPath": "C:\\Users\\david.nyberg\\source\\workspace\\Angular\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\david.nyberg\\AppData\\Roaming\\NuGet\\NuGet.Config",
