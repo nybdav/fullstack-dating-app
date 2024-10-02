@@ -6,6 +6,8 @@
 # dotenv files
 .env
 
+
+
 # User-specific files
 *.rsuser
 *.suo
@@ -30,8 +32,8 @@ x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
-[Bb]in/
-[Oo]bj/
+API/bin/
+API/obj/
 [Ll]og/
 [Ll]ogs/
 
